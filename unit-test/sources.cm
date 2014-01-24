@@ -1,0 +1,19 @@
+
+Group
+
+signature UNIT_TEST
+signature UNIT_TESTS
+structure UnitTests
+
+is
+
+$/basis.cm
+../basis/sources.cm
+../time-limit/sources.cm
+../pp/sources.cm
+
+unit-tests.sig
+unit-tests.sml
+unit-test.sig
+
+

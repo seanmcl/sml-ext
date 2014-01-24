@@ -1,0 +1,13 @@
+
+Group
+
+structure Knitro
+structure KnitroTest
+
+is
+
+$/basis.cm
+../../basis/sources.cm
+../../unit-test/sources.cm
+knitro.sig
+knitro-dummy.sml

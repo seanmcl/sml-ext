@@ -1,0 +1,14 @@
+
+Group
+
+structure MPFI
+
+is
+
+$/basis.cm
+../mpfr/sources.cm
+
+mpfi.sig
+mpfi-dummy.sml
+
+
